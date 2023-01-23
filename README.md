@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/ahmedZ0k/News-homepage
+- Live Site URL: https://ahmedz0k.github.io/News-homepage/#
 
 ## My process
 
@@ -51,7 +51,7 @@ I will continue learning JavaScript
 
 ## Author
 
-- Linkedin - [Add your name here](https://www.linkedin.com/in/ahmed-zakaria-63b72b1b5/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ahmedZ0k)
-- Github - [@yourusername](https://github.com/ahmedZ0k)
+- Linkedin - [@AhmedZakaria](https://www.linkedin.com/in/ahmed-zakaria-63b72b1b5/)
+- Frontend Mentor - [@AhmedZakaria](https://www.frontendmentor.io/profile/ahmedZ0k)
+- Github - [@AhmedZakaria](https://github.com/ahmedZ0k)
 
