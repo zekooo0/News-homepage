@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/ahmedZ0k/News-homepage
+- Live Site URL: https://ahmedz0k.github.io/News-homepage/#
 
 ## My process
 
